@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'Mr Li'
-description: '个人的一个技术博客站点，主要用于记录个人在学习过程中遇到的技术问题及解决方法、技术实验，以及一些比较有趣的事情。'
-keyword: 'zhonger，zhonger的博客，nodejs，kvm, 机器学习'
+title: 'walking typhoon's blog'
+description: '须知少时凌云志，曾许人间第一流'
+keyword: 'walking typhoon，walkingt yphoon的博客，cpp,life'
 url: 'https://easy-h2o-ac.pages.dev' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -14,6 +14,9 @@ url: 'https://easy-h2o-ac.pages.dev' # your host
 # 但是，如果你创建了一个叫 "myblog" 的网站，此时网址会变成 "kaeyleo.github.io/myblog" ，这时再将 baseurl 设置为 '/myblog'
 baseurl: ''
 theme: jekyll-theme-h2o-ac
+
+
+author: 'walking typhoon'
 
 # Internalization 国际化
 languages: ["zh-Hans", "zh-Hant", "en", "ja"]
