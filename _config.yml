@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'walking typhoon's blog'
+title: "walkingtyphoon's blog"
 description: '须知少时凌云志，曾许人间第一流'
 keyword: 'walking typhoon，walkingt yphoon的博客，cpp,life'
 url: 'https://easy-h2o-ac.pages.dev' # your host
@@ -162,3 +162,6 @@ notbyAI: true
 # Alive time
 alivetime: true
 alivestart: "12/23/2021"
+
+plugins:
+  - jekyll-paginate

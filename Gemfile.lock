@@ -32,6 +32,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-theme-h2o-ac (1.0.15)
@@ -70,6 +71,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  jekyll-paginate
   jekyll-theme-h2o-ac
 
 BUNDLED WITH
