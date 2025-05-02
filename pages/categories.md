@@ -1,6 +1,6 @@
 ---
 layout: categories
-home-title: Welcome to zhonger's blog!
+home-title: Welcome to walkingtyphoon's blog!
 description: Writing, writing, writing ...
 permalink: /categories.html
 cover: https://images.unsplash.com/photo-1649771482867-21eaffe6fcd0?w=1600&h=900
