@@ -89,7 +89,7 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   email: 'walking_typhoon@gmail.com'
-  github: 'https://github.com/zhonger'
+  github: 'https://github.com/walkingtyphoon'
 
 # CC License
 cclicense: true
